@@ -1,0 +1,46 @@
+body{
+     background-color: #ff6666;
+}
+
+h1{
+    color: white;
+    text-align: left;
+    font-size: 40px;
+}
+
+p {
+	color: white;
+    font-family: courtier;
+    font-size: 20px;
+}
+
+h2{
+	color: white;
+	font-family: courtier;
+	font-size: 30px;
+}
+
+ol{
+	color: white;
+	font-family: courtier;
+	font-size: 20px
+}
+
+ul{
+	color: white;
+	font-family: courtier;
+	font-size: 20px;
+}
+section{
+	border: 1px solid #555;
+	text-align: center;
+	border-bottom: 1px solid #555;
+	border-bottom: none;
+
+} 
+
+	
+
+
+
+
